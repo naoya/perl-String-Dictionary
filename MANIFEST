@@ -1,0 +1,11 @@
+Changes
+lib/String/Dictionary.pm
+lib/String/Dictionary/Util.pm
+Makefile.PL
+MANIFEST
+README
+t/00-load.t
+t/01-vb_code.t
+t/02-front_coding.t
+t/03-string_dictionary.t
+t/String-Dictionary.t
